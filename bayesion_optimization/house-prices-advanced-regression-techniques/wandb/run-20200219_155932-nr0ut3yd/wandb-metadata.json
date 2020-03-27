@@ -1,0 +1,24 @@
+{
+    "root": "/home/sinisha",
+    "program": "<python with no main file>",
+    "codeSaved": true,
+    "startedAt": "2020-02-19T15:17:49.096751",
+    "host": "sinisha-X550LD",
+    "username": "sinisha",
+    "executable": "/home/sinisha/miniconda3/bin/python3",
+    "os": "Linux-4.15.0-76-generic-x86_64-with-debian-buster-sid",
+    "python": "3.6.8",
+    "gpu": "GeForce 820M",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "args": [
+        "-f",
+        "/run/user/1000/jupyter/kernel-a0f02cf9-34dd-4b9a-b7c6-3f6b39461d30.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "fiery-sweep-43",
+    "project": "hyperparameter-sweeps-lgb",
+    "heartbeatAt": "2020-02-19T15:59:35.322796"
+}

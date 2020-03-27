@@ -1,0 +1,1 @@
+{"system.cpu": 18.55, "system.memory": 56.76, "system.disk": 22.2, "system.proc.memory.availableMB": 3398.11, "system.proc.memory.rssMB": 284.01, "system.proc.memory.percent": 3.61, "system.proc.cpu.threads": 16.38, "system.network.sent": 554735, "system.network.recv": 365926, "_wandb": true, "_timestamp": 1582126695, "_runtime": 3043}

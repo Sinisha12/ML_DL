@@ -1,0 +1,24 @@
+{
+    "root": "/home/sinisha",
+    "program": "<python with no main file>",
+    "codeSaved": true,
+    "startedAt": "2020-02-19T14:47:32.167035",
+    "host": "sinisha-X550LD",
+    "username": "sinisha",
+    "executable": "/home/sinisha/miniconda3/bin/python3",
+    "os": "Linux-4.15.0-76-generic-x86_64-with-debian-buster-sid",
+    "python": "3.6.8",
+    "gpu": "GeForce 820M",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "args": [
+        "-f",
+        "/run/user/1000/jupyter/kernel-97b2a325-7c35-4e37-b316-25b181bb1a47.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "rich-sweep-98",
+    "project": "hyperparameter-sweeps-comparison",
+    "heartbeatAt": "2020-02-19T15:20:32.566025"
+}

@@ -1,0 +1,41 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.8.27
+    is_jupyter_run: true
+    python_version: 3.6.8
+application:
+  desc: null
+  value: regression
+bagging_fraction:
+  desc: null
+  value: 0.1
+early_stopping_round:
+  desc: null
+  value: 50
+feature_fraction:
+  desc: null
+  value: 0.1
+learning_rate:
+  desc: null
+  value: 0.05
+max_depth:
+  desc: null
+  value: 500
+method:
+  desc: null
+  value: bayes
+min_child_weight:
+  desc: null
+  value: 1
+min_split_gain:
+  desc: null
+  value: 0.001
+num_iterations:
+  desc: null
+  value: 200
+num_leaves:
+  desc: null
+  value: 700

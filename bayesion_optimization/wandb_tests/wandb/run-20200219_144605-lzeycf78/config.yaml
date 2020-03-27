@@ -1,0 +1,20 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.8.27
+    is_jupyter_run: true
+    python_version: 3.6.8
+batch_size:
+  desc: null
+  value: 32
+epochs:
+  desc: null
+  value: 10
+layers:
+  desc: null
+  value: 16
+method:
+  desc: null
+  value: bayes
