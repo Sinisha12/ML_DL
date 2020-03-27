@@ -217,7 +217,7 @@ pycparser==2.18
 pydot==1.4.1
 pygments==2.4.0
 pyjwt==1.7.1
-pyopenssl==17.2.0
+pyopenssl==17.5.0
 pyparsing==2.2.0
 pyqt5-sip==12.7.0
 pyqt5==5.13.1
