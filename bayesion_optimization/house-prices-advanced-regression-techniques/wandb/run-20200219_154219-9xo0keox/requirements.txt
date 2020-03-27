@@ -199,7 +199,7 @@ pathtools==0.1.2
 patsy==0.5.1
 pexpect==4.7.0
 pickleshare==0.7.5
-pillow==5.1.0
+pillow==6.2.0
 pip==20.0.2
 plotly==3.9.0
 prometheus-client==0.6.0
